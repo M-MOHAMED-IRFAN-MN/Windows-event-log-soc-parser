@@ -1,4 +1,3 @@
-
 🔐 Windows Event Log SOC Parser
 A lightweight Python-based EVTX parser for Security Operations Center (SOC) analysts to detect and investigate Windows authentication anomalies.
 📋 Overview
@@ -127,4 +126,3 @@ Sample CSV output example
 MITRE ATT&CK mapping for each logon type
 PowerShell one-liner to export Security.evtx for analysis
 Let me know what you'd like to enhance!
-
