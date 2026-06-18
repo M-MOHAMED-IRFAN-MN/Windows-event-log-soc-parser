@@ -4,7 +4,7 @@
 
 ## 📋 Overview
 
-This tool extracts Windows Security Event Logon events (Event ID 4624 - Successful Logon & 4625 - Failed Logon) from .evtx files and converts them into structured CSV format for SOC analysis, threat hunting, and incident triage.
+This tool extracts Windows Security Event Logon events (Event ID 4624 - Successful Logon & 4625 - Failed Logon) from .evtx files and converts them into structured CSV format for SOC analysis, threat hunting, and incident response.
 
 Built for SOC analysts who need to quickly parse Windows authentication logs to identify brute-force attacks, suspicious login patterns, and lateral movement indicators.
 
@@ -174,7 +174,7 @@ MIT License — Free for personal and commercial SOC use.
 
 📍 Chennai, India
 
-🌐 Portfolio | 💼 LinkedIn
+🌐 [Portfolio](https://irfan-cyber-portfolio-33.lovable.app) | 💼 [LinkedIn](https://linkedin.com/in/m-mohamed-irfan-m0)
 
 ## 🙏 Acknowledgments
 
