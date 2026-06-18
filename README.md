@@ -184,11 +184,3 @@ MIT License — Free for personal and commercial SOC use.
 ---
 
 > "In SOC, every logon tells a story. This parser helps you read it." 🛡️
-
-### Additional Resources
-
-Would you like me to add:
-- A `requirements.txt` file content
-- Sample CSV output example
-- MITRE ATT&CK mapping for each logon type
-- PowerShell one-liner to export Security.evtx for analysis
